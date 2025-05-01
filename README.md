@@ -1,8 +1,17 @@
-- 👋 bonjour je suis @NicolasCAILLOL
-- 👀 Je suis intéréser par la programation informatique
-- Je suis actuélement en train de créer un serveur cloud
-- je gére aussi une chaine youtube: https://www.youtube.com/channel/UCtAMQz_Myuw9Qv5KRkWzNYQ et un serveur discord: https://discord.gg/8ffv7RdMxk
-- 📫 Si vous souhaité me contacté, faite le à l'adress nicolas.caillol@etik.com
+👋 Bonjour, je suis nicolas, plus connus sous le pseudonyme hartas en ligne.
+
+👀 Je suis passionné par la programmation informatique et je suis actuellement en train de développer un serveur cloud en france, l'objectif est d'avoir des prix abordable et un serveur local stocker par une personne de confiance.
+
+🎬 Je gère également une chaîne YouTube où je publie du gaming et des tuto en informatique : https://www.youtube.com/channel/UCtAMQz_Myuw9Qv5KRkWzNYQ
+
+🌟 Shadow Project : Une équipe de passionnés créant des projets divertissants.   ![logo shadow v3](https://github.com/user-attachments/assets/8aa1afc1-b2c5-4b32-a57f-11553fae3e86)
+Nous sommes des petits créateurs réunis sous la même bannière pour donner vie à des idées innovantes et captivantes.
+🎮 Rejoignez notre communauté sur Discord et guilded pour discuter, collaborer et suivre nos avancées : 
+Discord: https://discord.gg/8ffv7RdMxk
+Guilded: https://www.guilded.gg/i/2ODm7lWk
+
+
+📫 Pour toute question ou collaboration, n'hésitez pas à me contacter à l'adresse suivante : nicolas.caillol@etik.com
 
 <!---
 NicolasCAILLOL/NicolasCAILLOL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
