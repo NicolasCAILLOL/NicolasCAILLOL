@@ -2,8 +2,6 @@
 
 👀 Je suis passionné par la programmation informatique et je suis actuellement en train de développer un serveur cloud en france, l'objectif est d'avoir des prix abordable et un serveur local stocker par une personne de confiance.
 
-🎬 Je gère également une chaîne YouTube où je publie du gaming et des tuto en informatique : https://www.youtube.com/channel/UCtAMQz_Myuw9Qv5KRkWzNYQ
-
 🌟 Shadow Project : Une équipe de passionnés créant des projets divertissants. 
 Nous sommes des petits créateurs réunis sous la même bannière pour donner vie à des idées innovantes et captivantes.
 🎮 Rejoignez notre communauté sur Discord et guilded pour discuter, collaborer et suivre nos avancées : 
